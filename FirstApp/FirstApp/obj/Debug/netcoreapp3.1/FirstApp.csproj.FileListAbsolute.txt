@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.exe
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\1.16-01-2023\FirstApp\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.genruntimeconfig.cache
